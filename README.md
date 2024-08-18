@@ -1,6 +1,6 @@
 Hi, I am Arjun, Working on Build release Team in UST-global 👋
 
-🔭 I’m currently working on DevOp projects, using tools like AWS, Jenkins, IAC with Terraform, and Ansible.  
+🔭 I’m currently working on DevOp projects, using tools like AWS, Jenkins, gitlab and IAC with Terraform,
 
 🌱 I’m currently learning to use containerization technologies like Docker and Kubernetes.
 
