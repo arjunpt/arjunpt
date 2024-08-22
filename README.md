@@ -1,4 +1,4 @@
-Hi, I am Arjun, Working on Build release Team in UST-global 👋
+Hi, I am Arjun, working as DevOps Engineer in UST global 👋
 
 🔭 I’m currently working on DevOp projects, using tools like AWS, Jenkins, gitlab and IAC with Terraform,
 
